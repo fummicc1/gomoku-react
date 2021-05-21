@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gomoku-react/static/css/main.229d0cf6.chunk.css",
+    "main.js": "/gomoku-react/static/js/main.a03afb65.chunk.js",
+    "main.js.map": "/gomoku-react/static/js/main.a03afb65.chunk.js.map",
+    "runtime-main.js": "/gomoku-react/static/js/runtime-main.494825ad.js",
+    "runtime-main.js.map": "/gomoku-react/static/js/runtime-main.494825ad.js.map",
+    "static/js/2.d269445a.chunk.js": "/gomoku-react/static/js/2.d269445a.chunk.js",
+    "static/js/2.d269445a.chunk.js.map": "/gomoku-react/static/js/2.d269445a.chunk.js.map",
+    "static/js/3.7e315f6d.chunk.js": "/gomoku-react/static/js/3.7e315f6d.chunk.js",
+    "static/js/3.7e315f6d.chunk.js.map": "/gomoku-react/static/js/3.7e315f6d.chunk.js.map",
+    "index.html": "/gomoku-react/index.html",
+    "static/css/main.229d0cf6.chunk.css.map": "/gomoku-react/static/css/main.229d0cf6.chunk.css.map",
+    "static/js/2.d269445a.chunk.js.LICENSE.txt": "/gomoku-react/static/js/2.d269445a.chunk.js.LICENSE.txt",
+    "static/media/game_igo_ban.ced08e45.png": "/gomoku-react/static/media/game_igo_ban.ced08e45.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.494825ad.js",
+    "static/js/2.d269445a.chunk.js",
+    "static/css/main.229d0cf6.chunk.css",
+    "static/js/main.a03afb65.chunk.js"
+  ]
+}
