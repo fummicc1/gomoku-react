@@ -9,10 +9,10 @@ export type Disk = {
 export class Board {
     public size: number
 
-    public disk: Disk[]
+    public disks: Disk[]
 
-    constructor(size: number, disk: Disk[] = []) {
+    constructor(size: number, disks: Disk[] = []) {
         this.size = size
-        this.disk = disk
+        this.disks = disks
     }
 }
