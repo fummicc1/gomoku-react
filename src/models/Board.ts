@@ -1,7 +1,7 @@
 import { DiskType } from "./DiskType"
 
 export type Disk = {
-    type: DiskType,
+    type: DiskType | null,
     row: number,
     column: number
 }

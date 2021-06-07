@@ -1,9 +1,9 @@
+import { Box } from '@material-ui/core'
 import React from 'react'
 
 export function PreparePage() {
     return (
-        <div>
-
-        </div>
+        <Box className="PreparePage">
+        </Box>
     )
 }
